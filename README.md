@@ -1,68 +1,71 @@
-# case_study_shopzilla
+## case_study_shopzilla
 
 A case study investigating customer satisfaction and related variables for the fictional company Shopzilla
 
 An overview of the dataset : 
 
-## Column Name	and Description
+Rows: 85,907
+Columns: 20
 
-### Unique id
+### Column Name	and Description
+
+#### Unique id
 Unique identifier for each record
 
-### Channel name	
+#### Channel name	
 Name of the customer service channel
 
-### Category	
+#### Category	
 Category of the interaction
 
-### Sub-category	
+#### Sub-category	
 Sub-category of the interaction
 
-### Customer Remarks	
+#### Customer Remarks	
 Feedback provided by the customer
 
-### Order id	
+#### Order id	
 Identifier for the order associated with the interaction
 
-### Order date time	
+#### Order date time	
 Date and time of the order
 
-### Issue reported at	
+#### Issue reported at	
 Timestamp when the issue was reported
 
-### Issue responded	
+#### Issue responded	
 Timestamp when the issue was responded to
 
-### Survey response date	
+#### Survey response date	
 Date of the customer survey response
 
-### Customer city	
+#### Customer city	
 City of the customer
 
-### Product category	
+#### Product category	
 Category of the product
 
-### Item price	
+#### Item price	
 Price of the item
 
-### Connected handling time	
+#### Connected handling time	
 Time taken to handle the interaction
 
-### Agent name	
+#### Agent name	
 Name of the customer service agent
 
-### Supervisor	
+#### Supervisor	
 Name of the supervisor
 
-### Manager	
+#### Manager	
 Name of the manager
 
-### Tenure Bucket	
+#### Tenure Bucket	
 Bucket categorizing agent tenure
 
-### Agent Shift	
+#### Agent Shift	
 Shift timing of the agent
 
-### CSAT Score	
+#### CSAT Score	
 Customer Satisfaction Score, 1 as lowest and 5 as highest
 Customer Satisfaction (CSAT) score
