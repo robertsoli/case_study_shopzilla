@@ -5,6 +5,7 @@ A case study investigating customer satisfaction and related variables for the f
 An overview of the dataset : 
 
 Rows: 85,907
+
 Columns: 20
 
 ### Column Name	and Description
